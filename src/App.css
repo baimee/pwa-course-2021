@@ -15,13 +15,13 @@
 
 .App-header {
   flex: 1;
-  background-color: #1a354d;
+  background-color: #6ea4d3;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(68, 1, 1);
 }
 
 .App-chatroom {

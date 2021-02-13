@@ -2,7 +2,7 @@ import { useState } from 'react';
 import './App.css';
 
 
-function App() {
+function App()  {
 
 const [text, setText] = useState("");
 
